@@ -1,12 +1,32 @@
-- 👋 Hi, I’m Oju
-- 👀 I’m interested in building serverless apps with Python and Terraform
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Oju
 
-<!---
-oju-31/oju-31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a DevSecOps engineer specializing in Kubernetes, serverless architecture, and secure cloud infrastructure.
+
+I like working on platforms, pipelines, and automation that help teams ship reliable software securely.
+
+## What I'm Focused On
+
+- 👀 I'm interested in building secure serverless platforms with Python and Terraform
+- 🌱 I work across Kubernetes, cloud security, and platform engineering
+- ⚡ I design infrastructure and delivery workflows that are reliable, scalable, and secure
+
+## Tech I Use
+
+- Python
+- Terraform
+- Kubernetes
+- AWS / serverless platforms
+- Git and GitHub
+- Kotlin
+
+## What I'm Open To
+
+- 💞️ I'm looking to collaborate on DevSecOps, cloud infrastructure, Kubernetes, and automation projects
+- 📫 How to reach me: add your preferred contact link here
+
+## A Little More
+
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enjoy turning complex infrastructure challenges into secure, useful systems
+
+Thanks for stopping by.
