@@ -22,7 +22,7 @@ I like working on platforms, pipelines, and automation that help teams ship reli
 ## What I'm Open To
 
 - 💞️ I'm looking to collaborate on DevSecOps, cloud infrastructure, Kubernetes, and automation projects
-- 📫 How to reach me: add your preferred contact link here
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aojutomori/)
 
 ## A Little More
 
